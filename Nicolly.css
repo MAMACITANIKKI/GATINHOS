@@ -1,0 +1,33 @@
+body{
+    padding-left: 500px;
+    padding-right: 600px;
+            font-size: 40px;
+            font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+            color:rgb#ff94db;
+            background-color: 
+            
+        
+
+}
+
+img{ 
+padding-left:400px ;
+width: 700px;
+height: 800px;
+background-color: #ff94db;
+
+
+}
+
+
+.box{
+    width: 2500px;
+    height: 1500px;
+display: flex;
+flex-direction: column;
+color:rgb#ff94db;
+background-color:rgb#ff94db;
+
+padding: 10px 50px 10px 30px ;
+
+}
